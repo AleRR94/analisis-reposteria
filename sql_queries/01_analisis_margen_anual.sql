@@ -18,7 +18,6 @@ SELECT
 	(SELECT Margen FROM Calculos WHERE Año = '2024')+(SELECT Margen FROM Calculos WHERE Año = '2025')
 	
 UNION ALL
-
 SELECT
 'Diferencia',
 	(SELECT IngresosTotales FROM Calculos WHERE Año = '2024')-(SELECT IngresosTotales FROM Calculos WHERE Año = '2025'),
