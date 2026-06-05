@@ -4,7 +4,7 @@ WITH 'Calculos' AS (SELECT Año,sum(IT) AS IngresosTotales,sum(TotalCOGS) AS Tot
 	round(((sum(IT)-sum(TotalCOGS))/sum(IT))*100.00,2) AS Margen
 FROM transacciones
 GROUP BY Año)
---Convertir la columna Añe a texto para que coincida con las etiquetas Suma y Diferencia
+--Convertir la columna Año a texto para que coincida con las etiquetas Suma y Diferencia
 SELECT CAST(Año AS TEXT) AS Año, IngresosTotales, TotalCostos, Margen
 FROM Calculos
 WHERE Año IN (2024,2025)
