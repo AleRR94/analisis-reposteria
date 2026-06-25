@@ -1,0 +1,1 @@
+--Reto superado: DB browser for SQLite no tiene función de mediana, así que lo solucioné usando ROW_NUMBER y agregación condicional
