@@ -10,8 +10,17 @@ Este negocio no ha tenido actividad desde octubre de 2025 debido a una reubicaci
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34161689-fee5-4c57-add0-af6aa5e78a37" />
 👉 [**Haz clic aquí para interactuar con el Dashboard en Tableau Public**](https://public.tableau.com/views/Anlisisfinancierodecausarazsobrelaerosindemrgenesenunnegociodereposteraartesanal/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## 🎯 Objetivos de Negocio
-1. **Identificar la causa raíz** de la pérdida de margen bruto comparando el histórico de transacciones (2024 vs. 2025).
-2. **Segmentar el catálogo de productos** mediante un Análisis de Pareto (80/20) para blindar los productos estrella.
-3. **Construir un semáforo de riesgo operativo** para detectar recetas con baja rotación o márgenes peligrosos.
-4. **Desarrollar un modelo de simulación** (Análisis de Sensibilidad) que permita estresar precios y costos ante escenarios macroeconómicos variables.
+## 🎯 Preguntas de Negocio y Objetivos Analíticos
+Este proyecto busca responder a tres preguntas críticas sobre la erosión de márgenes, resolviéndolas mediante objetivos técnicos específicos:
+
+* **1. Evaluación de Rentabilidad**
+  * *Pregunta:* ¿Qué productos mantuvieron la rentabilidad del negocio para garantizar una eficacia operativa sostenible?
+  * *Enfoque Técnico:* **Análisis de Pareto (80/20)** en SQL y Tableau para poner nombre y apellido a los productos estrella históricos.
+  
+* **2. Análisis del Efecto Inflacionario**
+  * *Pregunta:* ¿El nulo aumento de los precios de venta fue la única causa de la disminución del margen bruto?
+  * *Enfoque Técnico:* **Análisis de Sensibilidad interactivo** con parámetros en Tableau para estresar la relación Precio-Costo de forma aislada.
+
+* **3. Reingeniería del Catálogo**
+  * *Pregunta:* ¿Qué recetas necesitan una reestructuración o nuevo enfoque en el abastecimiento?
+  * *Enfoque Técnico:* **Matriz de Semáforo** en SQL cruzando volumen de venta con margen bruto mínimo de repostería (60%).
