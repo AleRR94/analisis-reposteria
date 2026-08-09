@@ -14,13 +14,13 @@ Este negocio no ha tenido actividad desde octubre de 2025 debido a una reubicaci
 Este proyecto busca responder a tres preguntas críticas sobre la erosión de márgenes, resolviéndolas mediante objetivos técnicos específicos:
 
 * **1. Evaluación de Rentabilidad**
-  * *Pregunta:* ¿Qué productos mantuvieron la rentabilidad del negocio para garantizar una eficacia operativa sostenible?
-  * *Enfoque Técnico:* **Análisis de Pareto (80/20)** en SQL y Tableau para poner nombre y apellido a los productos estrella históricos.
+  * *Pregunta:* ¿Qué productos mantuvieron la *rentabilidad* del negocio?
+  * *Enfoque Técnico:* **Análisis de Pareto (80/20)** en GoogleSheets, SQL y Tableau para identificar a los productos estrella históricos.
   
 * **2. Análisis del Efecto Inflacionario**
-  * *Pregunta:* ¿El nulo aumento de los precios de venta fue la única causa de la disminución del margen bruto?
+  * *Pregunta:* ¿El nulo aumento de los *precios de venta* fue la única causa de la disminución del *margen de ganancia bruto*?
   * *Enfoque Técnico:* **Análisis de Sensibilidad interactivo** con parámetros en Tableau para estresar la relación Precio-Costo de forma aislada.
 
 * **3. Reingeniería del Catálogo**
-  * *Pregunta:* ¿Qué recetas necesitan una reestructuración o nuevo enfoque en el abastecimiento?
+  * *Pregunta:* ¿Qué recetas necesitan una *reestructuración*?
   * *Enfoque Técnico:* **Matriz de Semáforo** en SQL cruzando volumen de venta con margen bruto mínimo de repostería (60%).
