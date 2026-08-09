@@ -4,7 +4,7 @@
 En este proyecto se evalúa la salud financiera y la rentabilidad real de un negocio pequeño de repostería artesanal que estuvo expuesto a presiones inflacionarias. A través de un enfoque analítico híbrido, se procesaron miles de transacciones utilizando **SQL (SQLite)** y **Python** para el minado y cálculo estadístico avanzado, **Google Sheets** para la validación financiera y por último, **Tableau** para el diseño de un dashboard interactivo.
 
 ## 📊 Tablero Interactivo (Tableau)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0694b000-1dbc-4b74-b6dd-a5dff688350e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb4fa4c7-077d-41ed-ac66-9e03b19c2c9b" />
 👉 [**Haz clic aquí para interactuar con el Dashboard en Tableau Public**](https://public.tableau.com/views/Anlisisfinancierodecausarazsobrelaerosindemrgenesenunnegociodereposteraartesanal/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🎯 Objetivos de Negocio
