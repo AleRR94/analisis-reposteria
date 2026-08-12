@@ -36,13 +36,13 @@ Los **análisis cuantitativos** llevados a cabo en este proyecto, permite traduc
 
 ## 📝 Metodología
 
-* ***Unificación de medidas***. Se homogenizaron las métricas para asegurar una comparación objetiva en ambos años.
+* **Unificación de medidas**. Se homogenizaron las métricas para asegurar una comparación objetiva en ambos años.
   
-* ***Auditoría de datos***. Se detectaron valores nulos y se completaron con la información correspondiente, asegurando que los cálculos sean precisos.
+* **Auditoría de datos**. Se detectaron valores nulos y se completaron con la información correspondiente, asegurando que los cálculos sean precisos.
   
-* ***Unión de datos***. Se vincularon listas de precios antiguos y nuevos para crear una visión completa del historial del  negocio.
+* **Unión de datos**. Se vincularon listas de precios antiguos y nuevos para crear una visión completa del historial del  negocio.
 
-* ***Modelado***.  Se creó una tabla maestra la cual es un motor de escenarios dinámicos para el análisis de sensibilidad.
+* **Modelado**.  Se creó una tabla maestra la cual es un motor de escenarios dinámicos para el análisis de sensibilidad.
 
 
 
