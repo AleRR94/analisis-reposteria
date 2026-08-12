@@ -46,27 +46,6 @@ Los **análisis cuantitativos** llevados a cabo en este proyecto, permite traduc
 
 
 
-### 🔡 Glosario
-
-*CV*            Costo de Ventas. 
-*ETL*           Extract, Transform, Load. 
-*GO*            Gastos Operacionales.
-*ID*            Identificación de productos. 
-*IT*            Ingresos Totales. 
-*MGB*           Margen de Ganancia Bruta.  
-*MixVtas$*      Mix Ventas Ingresos Totales.  
-*MixVtasQ*      Mix Ventas Quantity. 
-*MU*            Margen Unitario. 
-*SMV*           Sales Mix Variance. 
-*TotalCV*       Total Costos de Ventas. 
-*UB*            Utilidad Bruta.         
-*UN*            Utilidad Neta. 
-*UO*            Utilidad Operativa. 
-*VariaciónMoM*  Variación Month over Month. 
-*VariaciónWoW*  Variación Week over Week. 
-*VariaciónYoY*  Variación Year over Year. 
-
-
 															
 															
 															
