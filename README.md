@@ -29,8 +29,36 @@ Este proyecto busca responder a tres preguntas críticas sobre la erosión de m�
 Los **análisis cuantitativos** llevados a cabo en este proyecto, permite traducir estas **variables numéricas** en un **panorama estratégico**. En seguida se muestra la **matriz FODA**, la cual sintetiza los hallazgos en la base de datos los cuales serán la base para el **plan de acción** y el **relanzamiento comercial**.
 
 <img width="1156" height="475" alt="2026-08-12" src="https://github.com/user-attachments/assets/d58573cf-1ff5-4844-83bb-10a047e20db1" />
-<img width="1248" height="508" alt="2026-08-12 (1)" src="https://github.com/user-attachments/assets/368c7bd9-f42f-480e-8089-47fa0557e918" />
 
+## 📝 Metodología
+
+* ***Unificación de medidas***. Se homogenizaron las métricas para asegurar una comparación objetiva en ambos años.
+  
+* ***Auditoría de datos***. Se detectaron valores nulos y se completaron con la información correspondiente, asegurando que los cálculos sean precisos.
+  
+* ***Unión de datos***. Se vincularon listas de precios antiguos y nuevos para crear una visión completa del historial del  negocio.
+
+* ***Modelado***.  Se creó una tabla maestra la cual es un motor de escenarios dinámicos para el análisis de sensibilidad.
+
+## 🔡 Glosario
+
+*CV*            Costo de Ventas
+*ETL*           Extract, Transform, Load
+*GO*            Gastos Operacionales
+*ID*            Identificación de productos
+*IT*            Ingresos Totales
+*MGB*           Margen de Ganancia Bruta 
+*MixVtas$*      Mix Ventas Ingresos Totales 
+*MixVtasQ*      Mix Ventas Quantity
+*MU*            Margen Unitario
+*SMV*           Sales Mix Variance
+*TotalCV*       Total Costos de Ventas
+*UB*            Utilidad Bruta       
+*UN*            Utilidad Neta
+*UO*            Utilidad Operativa
+*VariaciónMoM*  Variación Month over Month
+*VariaciónWoW*  Variación Week over Week
+*VariaciónYoY*  Variación Year over Year
 
 
 															
