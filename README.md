@@ -54,6 +54,14 @@ Los **análisis cuantitativos** llevados a cabo en este proyecto, permite traduc
 * MixVtas$: Mix Ventas Ingresos Totales
 * MixVtasQ: Mix Ventas Cantidad
 * MU:       Margen Unitario
+* SMV: Sales Mix Variance
+* TotalCV: Total Costo de Ventas
+* UB: Utilidad bruta
+* UN: Utilidad Neta
+* UO: Utilidad Operativa
+* VariaciónMoM: Variación Month over Month
+* VariaciónWoW: Variación Week over Week
+* VariaciónYoY: Variación Year over Year
 
 															
 															
