@@ -44,7 +44,16 @@ Los **análisis cuantitativos** llevados a cabo en este proyecto, permite traduc
 
 * **Modelado**.  Se creó una tabla maestra la cual es un motor de escenarios dinámicos para el análisis de sensibilidad.
 
-
+### 🔡 Glosario
+* CV:       Costo de Ventas
+* ETL:      Extract, Transform, Load
+* GO:       Gastos Operacionales
+* ID:       Identificación de productos
+* IT:       Ingresos Totales
+* MGB:      Margen de Ganancia Bruta
+* MixVtas$: Mix Ventas Ingresos Totales
+* MixVtasQ: Mix Ventas Cantidad
+* MU:       Margen Unitario
 
 															
 															
