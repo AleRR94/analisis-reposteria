@@ -24,3 +24,35 @@ Este proyecto busca responder a tres preguntas críticas sobre la erosión de m�
 * **3. Reingeniería del Catálogo**
   * *Pregunta:* ¿Qué recetas necesitan una *reestructuración*?
   * *Enfoque Técnico:* **Matriz de Semáforo** en SQL cruzando volumen de venta con margen bruto mínimo de repostería (60%).
+
+## 🖊️ Matriz FODA
+Los **análisis cuantitativos** llevados a cabo en este proyecto, permite traducir estas **variables numéricas** en un **panorama estratégico**. En seguida se muestra la **matriz FODA**, la cual sintetiza los hallazgos en la base de datos los cuales serán la base para el **plan de acción** y el **relanzamiento comercial**.
+
+<img width="1156" height="475" alt="2026-08-12" src="https://github.com/user-attachments/assets/d58573cf-1ff5-4844-83bb-10a047e20db1" />
+<img width="1248" height="508" alt="2026-08-12 (1)" src="https://github.com/user-attachments/assets/368c7bd9-f42f-480e-8089-47fa0557e918" />
+
+
+
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
