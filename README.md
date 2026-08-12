@@ -7,7 +7,7 @@ En este proyecto se evalúa la salud financiera y la rentabilidad real de un neg
 Este negocio no ha tenido actividad desde octubre de 2025 debido a una reubicación geográfica. El objetivo es que durante el **primer trimestre** de **reactivación operativa**, se alcance un **Margen Bruto** mínimo del **65%**, esto, a través de una **reingeniería** de las **recetas** y una **actualización dinámica** de los **precios**.
 
 ## 📊 *Dashboard* Interactivo (Tableau)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34161689-fee5-4c57-add0-af6aa5e78a37" />
+<img width="1920" height="1032" alt="2026-08-09 (4)" src="https://github.com/user-attachments/assets/20d5f770-1bcb-4c2b-8599-66ac5afb4aa5" />
 👉 [**Haz clic aquí para interactuar con el Dashboard en Tableau Public**](https://public.tableau.com/views/Anlisisfinancierodecausarazsobrelaerosindemrgenesenunnegociodereposteraartesanal/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🎯 Preguntas de Negocio y Objetivos Analíticos
