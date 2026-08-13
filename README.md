@@ -39,14 +39,14 @@ Tras consolidar el análisis descriptivo, estadístico y la simulación interact
   Para alcanzar el objetivo del **65% de Margen Bruto**, no basta con empujar el volumen de venta. Se requiere implementar un monitoreo constante sobre la merma, optimizar el abastecimiento estratégico de insumos clave y asegurar que cualquier variación inflacionaria futura se refleje de manera dinámica en el precio final al consumidor.
 
 
-## 🖊️ Matriz FODA
+### 🖊️ Matriz FODA
 Los **análisis cuantitativos** llevados a cabo en este proyecto, permite traducir estas **variables numéricas** en un **panorama estratégico**. En seguida se muestra la **matriz FODA**, la cual sintetiza los hallazgos en la base de datos los cuales serán la base para el **plan de acción** y el **relanzamiento comercial**.
 
 <img width="1156" height="475" alt="2026-08-12" src="https://github.com/user-attachments/assets/d58573cf-1ff5-4844-83bb-10a047e20db1" />
 
 
 
-## 📝 Metodología
+### 📝 Metodología
 
 * **Unificación de medidas**. Se homogenizaron las métricas para asegurar una comparación objetiva en ambos años.
   
