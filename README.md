@@ -26,6 +26,18 @@ Este proyecto busca responder a tres preguntas críticas sobre la erosión de m�
   * *Pregunta:* ¿Qué recetas necesitan una *reestructuración*?
   * *Enfoque Técnico:* **Matriz de Semáforo** en SQL cruzando volumen de venta con margen bruto mínimo de repostería (60%).
 
+## 🎯 Conclusiones Generales e Insights de Causa Raíz
+
+Tras consolidar el análisis descriptivo, estadístico y la simulación interactiva, se determinaron los siguientes hallazgos estratégicos para el negocio:
+
+* **Causa Raíz de la Erosión:** Se concluye que la erosión del **3.69% anual** del Margen de Ganancia Bruta se debió estrictamente al impacto de la **inflación acelerada sobre los insumos** combinado con una estrategia de precios de venta fijos. Queda descartada cualquier tipo de deficiencia operativa interna.
+* **Hallazgos Clave del Catálogo:**
+  * **Estabilidad del Modelo:** El negocio es estructuralmente estable; bastaba con aplicar un ajuste del **10% en el precio de venta** para mantener el Margen Bruto Ponderado por encima del umbral del 60%.
+  * **Dependencia de Portafolio:** La utilidad bruta total depende fuertemente del **62.5% de los productos** (Categoría A de Pareto), exigiendo acciones inmediatas de blindaje y retención para estos productos en el catálogo.
+  * **Intervención Crítica:** Se identificaron productos críticos que requieren reestructuración inmediata en sus costos de preparación o volumen de ventas (como los IDs 3829 y 3830, cuyas caídas drásticas afectaron el flujo).
+* **Propuesta Estratégica (Hacia la Meta SMART):** 
+  Para alcanzar el objetivo del **65% de Margen Bruto**, no basta con empujar el volumen de venta. Se requiere implementar un monitoreo constante sobre la merma, optimizar el abastecimiento estratégico de insumos clave y asegurar que cualquier variación inflacionaria futura se refleje de manera dinámica en el precio final al consumidor.
+
 
 ## 🖊️ Matriz FODA
 Los **análisis cuantitativos** llevados a cabo en este proyecto, permite traducir estas **variables numéricas** en un **panorama estratégico**. En seguida se muestra la **matriz FODA**, la cual sintetiza los hallazgos en la base de datos los cuales serán la base para el **plan de acción** y el **relanzamiento comercial**.
