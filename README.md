@@ -35,6 +35,8 @@ Tras consolidar el análisis descriptivo, estadístico y la simulación interact
   * El negocio es estructuralmente estable; bastaba con aplicar un ajuste del **10% en el precio de venta** para mantener el Margen Bruto por encima del umbral del 60%.
   * La utilidad bruta total depende fuertemente del **62.5% de los productos** (Categoría A de Pareto), exigiendo acciones inmediatas de blindaje y retención para estos productos en el catálogo.
   * Se identificaron productos críticos que requieren reestructuración inmediata en sus costos de preparación o volumen de ventas (como los IDs 3829 y 3830, cuyas caídas drásticas afectaron el flujo).
+  * A través del cálculo del Coeficiente de Variación en Python, se detectó que los **Muffins de Yogurt** presentaron el mayor índice de inestabilidad en sus ventas semanales. Aunque es el producto líder en ingresos y rentabilidad, se reveló una **alta dependencia financiera y operativa** del negocio hacia un solo producto. Alguna caída drástica en este producto impactaría de manera directa e intensa el flujo de caja global, por lo que se necesita una **estrategia de diversificación** para mitigar este **riesgo de concentración**.
+
 * **Propuesta Estratégica:** 
   Para alcanzar el objetivo del **65% de Margen Bruto**, no basta con empujar el volumen de venta. Se requiere implementar un monitoreo constante sobre la merma, optimizar el abastecimiento estratégico de insumos clave y asegurar que cualquier variación inflacionaria futura se refleje de manera dinámica en el precio final al consumidor.
 
