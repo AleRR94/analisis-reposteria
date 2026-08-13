@@ -32,9 +32,9 @@ Tras consolidar el análisis descriptivo, estadístico y la simulación interact
 
 * **Causa Raíz de la Erosión:** Se concluye que la erosión del **3.69% anual** del Margen de Ganancia Bruta se debió estrictamente al impacto de la **inflación acelerada sobre los insumos** combinado con una estrategia de precios de venta fijos. Queda descartada cualquier tipo de deficiencia operativa interna.
 * **Hallazgos Clave del Catálogo:**
-  * **Estabilidad del Modelo:** El negocio es estructuralmente estable; bastaba con aplicar un ajuste del **10% en el precio de venta** para mantener el Margen Bruto Ponderado por encima del umbral del 60%.
-  * **Dependencia de Portafolio:** La utilidad bruta total depende fuertemente del **62.5% de los productos** (Categoría A de Pareto), exigiendo acciones inmediatas de blindaje y retención para estos productos en el catálogo.
-  * **Intervención Crítica:** Se identificaron productos críticos que requieren reestructuración inmediata en sus costos de preparación o volumen de ventas (como los IDs 3829 y 3830, cuyas caídas drásticas afectaron el flujo).
+  * El negocio es estructuralmente estable; bastaba con aplicar un ajuste del **10% en el precio de venta** para mantener el Margen Bruto por encima del umbral del 60%.
+  * La utilidad bruta total depende fuertemente del **62.5% de los productos** (Categoría A de Pareto), exigiendo acciones inmediatas de blindaje y retención para estos productos en el catálogo.
+  * Se identificaron productos críticos que requieren reestructuración inmediata en sus costos de preparación o volumen de ventas (como los IDs 3829 y 3830, cuyas caídas drásticas afectaron el flujo).
 * **Propuesta Estratégica (Hacia la Meta SMART):** 
   Para alcanzar el objetivo del **65% de Margen Bruto**, no basta con empujar el volumen de venta. Se requiere implementar un monitoreo constante sobre la merma, optimizar el abastecimiento estratégico de insumos clave y asegurar que cualquier variación inflacionaria futura se refleje de manera dinámica en el precio final al consumidor.
 
