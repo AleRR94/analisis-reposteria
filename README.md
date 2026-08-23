@@ -6,6 +6,23 @@ En este proyecto se evalúa la salud financiera y la rentabilidad real de un neg
 ## Meta SMART:
 Este negocio no ha tenido actividad desde octubre de 2025 debido a una reubicación geográfica. El objetivo es que durante el **primer trimestre** de **reactivación operativa**, se alcance un **Margen Bruto** mínimo del **65%**, esto, a través de una **reingeniería** de las **recetas** y una **actualización dinámica** de los **precios**.
 
+## 🗺️ Metodología y Fases del Análisis
+
+### 📊 1. Análisis Descriptivo (Google Sheets, SQL y Python)
+* **Enfoque Cuantitativo:** Consolidación de transacciones históricas calculando medias, medianas y desviaciones estándar poblacionales anualizadas para medir la tendencia central del negocio.
+* **Análisis de Volatilidad (Python):** Modelado del Coeficiente de Variación (CV) y diseño de gráficos de dispersión para evaluar la estabilidad y el riesgo en el volumen de ventas por receta.
+
+### 🔍 2. Análisis Diagnóstico (Google Sheets, SQL y Tableau)
+* **Segmentación de Catálogo:** Implementación del Análisis de Pareto (80/20) para identificar las recetas clave que sostienen la utilidad bruta del negocio.
+* **Monitoreo de Alertas:** Diseño de una Matriz de Semáforo condicional basada en los umbrales financieros de la industria de alimentos (60% de margen mínimo) para detectar productos críticos.
+
+### 🎛️ 3. Análisis de Sensibilidad (Visualización | Google Sheets y Tableau)
+* **Simulación de Escenarios:** Construcción de un tablero interactivo con parámetros deslizables para estresar la relación Precio-Costo y evaluar el impacto macroeconómico (inflación) en tiempo real.
+
+### 🎯 4. Análisis Prescriptivo (Conclusiones de Negocio)
+* **Plan de Acción:** Diagnóstico final de causa raíz sobre la erosión del 3.69% anual del margen bruto y formulación de estrategias para la reestructuración de precios y retención de productos estrella hacia la Meta SMART.
+
+
 ## 📊 *Dashboard* Interactivo (Tableau)
 <img width="1920" height="1032" alt="2026-08-09 (4)" src="https://github.com/user-attachments/assets/20d5f770-1bcb-4c2b-8599-66ac5afb4aa5" />
 👉 [**Haz clic aquí para interactuar con el Dashboard en Tableau Public**](https://public.tableau.com/views/Anlisisfinancierodecausarazsobrelaerosindemrgenesenunnegociodereposteraartesanal/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
