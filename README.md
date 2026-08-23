@@ -10,13 +10,13 @@ Este negocio no ha tenido actividad desde octubre de 2025 debido a una reubicaci
 
 ### 📊 1. Análisis Descriptivo (Google Sheets, SQL y Python)
 * **Enfoque Cuantitativo:** Consolidación de transacciones históricas calculando medias, medianas y desviaciones estándar poblacionales anualizadas para medir la tendencia central del negocio.
-* **Análisis de Volatilidad (Python):** Modelado del Coeficiente de Variación (CV) y diseño de gráficos de dispersión para evaluar la estabilidad y el riesgo en el volumen de ventas por receta.
+* **Análisis de Volatilidad (Python):** Cálculo del Coeficiente de Variación (CV) y diseño de gráficos de dispersión para evaluar la estabilidad y el riesgo en el volumen de ventas por receta.
 
 ### 🔍 2. Análisis Diagnóstico (Google Sheets, SQL y Tableau)
 * **Segmentación de Catálogo:** Implementación del Análisis de Pareto (80/20) para identificar las recetas clave que sostienen la utilidad bruta del negocio.
 * **Monitoreo de Alertas:** Diseño de una Matriz de Semáforo condicional basada en los umbrales financieros de la industria de alimentos (60% de margen mínimo) para detectar productos críticos.
 
-### 🎛️ 3. Análisis de Sensibilidad (Visualización | Google Sheets y Tableau)
+### 🎛️ 3. Análisis de Sensibilidad (Visualización | Tableau)
 * **Simulación de Escenarios:** Construcción de un tablero interactivo con parámetros deslizables para estresar la relación Precio-Costo y evaluar el impacto macroeconómico (inflación) en tiempo real.
 
 ### 🎯 4. Análisis Prescriptivo (Conclusiones de Negocio)
@@ -59,7 +59,7 @@ Tras consolidar el análisis descriptivo, estadístico y la simulación interact
 
 
 ### 🖊️ Matriz FODA
-Los **análisis cuantitativos** llevados a cabo en este proyecto, permite traducir estas **variables numéricas** en un **panorama estratégico**. En seguida se muestra la **matriz FODA**, la cual sintetiza los hallazgos en la base de datos los cuales serán la base para el **plan de acción** y el **relanzamiento comercial**.
+Los **análisis cuantitativos** llevados a cabo en este proyecto, permiten traducir estas **variables numéricas** en un **panorama estratégico**. En seguida se muestra la **matriz FODA**, la cual sintetiza los hallazgos en la base de datos los cuales serán la base para el **plan de acción** y el **relanzamiento comercial**.
 
 <img width="1156" height="475" alt="2026-08-12" src="https://github.com/user-attachments/assets/d58573cf-1ff5-4844-83bb-10a047e20db1" />
 
