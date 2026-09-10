@@ -24,8 +24,9 @@ Este negocio no ha tenido actividad desde octubre de 2025 debido a una reubicaci
 
 
 ## 📊 *Dashboard* Interactivo (Tableau)
-<img width="1920" height="1032" alt="2026-08-09 (4)" src="https://github.com/user-attachments/assets/20d5f770-1bcb-4c2b-8599-66ac5afb4aa5" />
-👉 [**Haz clic aquí para interactuar con el Dashboard en Tableau Public**](https://public.tableau.com/views/Anlisisfinancierodecausarazsobrelaerosindemrgenesenunnegociodereposteraartesanal/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="1920" height="1036" alt="2026-09-10 (4)" src="https://github.com/user-attachments/assets/d98f717d-06bb-4712-ad9d-b7dc69702466" />
+👉 [**Haz clic aquí para interactuar con el Dashboard en Tableau Public**]
+(https://public.tableau.com/views/Anlisisfinancierodecausarazsobrelaerosindemrgenesenunnegociodereposteraartesanal/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## 🎯 Preguntas de Negocio y Objetivos Analíticos
