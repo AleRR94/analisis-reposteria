@@ -6,8 +6,13 @@ En este proyecto se evalúa la salud financiera y la rentabilidad real de un neg
 ## Meta SMART:
 Este negocio no ha tenido actividad desde octubre de 2025 debido a una reubicación geográfica. El objetivo es que durante el **primer trimestre** de **reactivación operativa**, se alcance un **Margen Bruto** mínimo del **65%**, esto, a través de una **reingeniería** de las **recetas** y una **actualización dinámica** de los **precios**.
 
-## 🗺️ Metodología y Fases del Análisis
-
+## 🗺️ Metodología  
+* **Unificación de medidas**. Se homogenizaron las métricas para asegurar una comparación objetiva en ambos años.  
+* **Auditoría de datos**. Se detectaron valores nulos y se completaron con la información correspondiente, asegurando que los cálculos sean precisos. 
+* **Unión de datos**. Se vincularon listas de precios antiguos y nuevos para crear una visión completa del historial del  negocio.
+* **Modelado**.  Se creó una tabla maestra la cual es un motor de escenarios dinámicos para el análisis de sensibilidad.
+  
+## 📑 Fases del Análisis
 ### 📊 1. Análisis Descriptivo (Google Sheets, SQL y Python)
 * **Enfoque Cuantitativo:** Consolidación de transacciones históricas calculando medias, medianas y desviaciones estándar poblacionales anualizadas para medir la tendencia central del negocio.
 * **Análisis de Volatilidad (Python):** Cálculo del Coeficiente de Variación (CV) y diseño de gráficos de dispersión para evaluar la estabilidad y el riesgo en el volumen de ventas por receta.
@@ -44,7 +49,7 @@ Este proyecto busca responder a tres preguntas críticas sobre la erosión de m�
   * *Pregunta:* ¿Qué recetas necesitan una *reestructuración*?
   * *Enfoque Técnico:* **Matriz de Semáforo** en SQL cruzando volumen de venta con margen bruto mínimo de repostería (60%).
 
-## 🎯 Conclusiones Generales e Insights de Causa Raíz
+## ✅ Conclusiones Generales e Insights de Causa Raíz
 
 Tras consolidar el análisis descriptivo, estadístico y la simulación interactiva, se determinaron los siguientes hallazgos estratégicos para el negocio:
 
@@ -68,13 +73,6 @@ Los **análisis cuantitativos** llevados a cabo en este proyecto, permiten tradu
 
 ### 📝 Metodología
 
-* **Unificación de medidas**. Se homogenizaron las métricas para asegurar una comparación objetiva en ambos años.
-  
-* **Auditoría de datos**. Se detectaron valores nulos y se completaron con la información correspondiente, asegurando que los cálculos sean precisos.
-  
-* **Unión de datos**. Se vincularon listas de precios antiguos y nuevos para crear una visión completa del historial del  negocio.
-
-* **Modelado**.  Se creó una tabla maestra la cual es un motor de escenarios dinámicos para el análisis de sensibilidad.
 
 ### 🔡 Glosario
 * CV:       Costo de Ventas
