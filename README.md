@@ -69,11 +69,6 @@ Los **análisis cuantitativos** llevados a cabo en este proyecto, permiten tradu
 
 <img width="1156" height="475" alt="2026-08-12" src="https://github.com/user-attachments/assets/d58573cf-1ff5-4844-83bb-10a047e20db1" />
 
-
-
-### 📝 Metodología
-
-
 ### 🔡 Glosario
 * CV:       Costo de Ventas
 * ETL:      Extract, Transform, Load
