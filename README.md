@@ -63,7 +63,7 @@ Tras consolidar el análisis descriptivo, estadístico y la simulación interact
 * **Propuesta Estratégica:** 
   Para alcanzar el objetivo del **65% de Margen Bruto**, no basta con empujar el volumen de venta. Se requiere implementar un monitoreo constante sobre la merma, optimizar el abastecimiento estratégico de insumos clave y asegurar que cualquier variación inflacionaria futura se refleje de manera dinámica en el precio final al consumidor.
 
-## Limitantes del proyecto:
+### Limitantes del proyecto:
 Al ser un negocio pequeño y que las transacciones fueron relativamente pocas, los resultados obtenidos en este análisis no pueden ser generalizables.
 
 ### 🖊️ Matriz FODA
